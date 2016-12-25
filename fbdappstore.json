@@ -1,7 +1,14 @@
 {
-  "googleplay": [
-    {
-      "url": "https://play.google.com/store/apps/dev?id=4712980303859595180"
-    }
-  ]
+    "status": "ok",
+    "posts": [
+        {
+            "id": 1,
+            "type": "post",
+            "url": "https://play.google.com/store/apps/dev?id=4712980303859595180",
+            "status": "publish",
+            "title": "Google Developer Page",
+            "content": "<p>Here's a link to our Google Play Developer Page!</p>",
+            "date": "December 24 2016"
+        }
+    ]
 }
